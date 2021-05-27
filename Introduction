@@ -1,0 +1,13 @@
+
+Hello everyone. 
+Today I want to talk about my project. I used Burpsuit and sqlmap while creating this project. 
+Burpsuit is a tool for testing and monitoring the security of web applications. 
+This application allows monitoring of requests between client and server, thanks to manual proxy. 
+
+Another tool I will use is sqlmap. Sqlmap is an open source infiltration tool that detects vulnerabilities of databases and steals information. 
+It is often used by hackers. Sqlmap is generally used on Kali-Linux. My goal in the Burpsuit was to track the movements of the target page and set its parameters. 
+I set up a manual proxy to watch the target site is working properly and started watching it on burpsuite. Then I learned the parameter of the target site. 
+First I completed sqlmap installation in Kali terminal, then I installed sqlmap.py. I wrote some code to connect to the target site and pull the data through Sqlmap and connect to the targeted site.
+Next, I chose the database and target table I want to infiltrate. I accessed the database on the target site and the table containing the login information. ,
+Later, thanks to the information I obtained, I logged into the target site and completed my SQL injection project.
+Thank you for listening.
