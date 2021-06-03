@@ -10,4 +10,3 @@ I set up a manual proxy to watch the target site is working properly and started
 First I completed sqlmap installation in Kali terminal, then I installed sqlmap.py. I wrote some code to connect to the target site and pull the data through Sqlmap and connect to the targeted site.
 Next, I chose the database and target table I want to infiltrate. I accessed the database on the target site and the table containing the login information. ,
 Later, thanks to the information I obtained, I logged into the target site and completed my SQL injection project.
-Thank you for listening.
