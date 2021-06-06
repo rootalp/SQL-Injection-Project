@@ -1,6 +1,6 @@
 # SQL-Injection-Project
 
 # This project includes
-- Project Documennt
+- Project Document
 - Project Photos
 - Installation codes and runnig codes
